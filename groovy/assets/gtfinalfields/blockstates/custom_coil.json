@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=iron": {
+      "model": "gtfinalfields:custom_coil"
+      }
+    }
+}
